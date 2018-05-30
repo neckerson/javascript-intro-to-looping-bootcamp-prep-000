@@ -21,4 +21,5 @@ function doWhileLoop(ary) {
   do {
     ary.pop();
   } while (ary.length > 0 && maybeTrue())
+  return ary;
 }
