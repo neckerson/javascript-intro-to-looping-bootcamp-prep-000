@@ -9,3 +9,5 @@ function forLoop(ary) {
     }
   }
 }
+
+forLoop([])
