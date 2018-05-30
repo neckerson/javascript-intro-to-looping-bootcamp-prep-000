@@ -6,5 +6,5 @@ function forLoop(array) {
   return array
 }
 
-
+forLoop([])
 console.log(array)
