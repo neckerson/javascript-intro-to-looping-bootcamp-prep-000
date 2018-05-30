@@ -7,8 +7,8 @@ function forLoop(ary) {
       array.push(`I am ${i} strange loop`);
     }
   }
+        console.log(array)
 }
 
 forLoop([])
 
-      console.log(array)
