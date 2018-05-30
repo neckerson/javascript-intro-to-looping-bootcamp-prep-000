@@ -19,6 +19,6 @@ function maybeTrue() {
 
 function doWhileLoop(ary) {
   do {
-    ary.pop
+    ary.pop()
   } while (maybeTrue());
 }
